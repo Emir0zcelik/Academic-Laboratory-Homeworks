@@ -1,2 +1,2 @@
 # Academic-Laboratory-Homeworks
-Cankaya University Laboratory Homeworks
+Cankaya University Laboratorys & Homeworks
